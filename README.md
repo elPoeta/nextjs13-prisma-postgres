@@ -11,3 +11,11 @@ pnpm i  @prisma/client
 ```bash
 pnpm dlx prisma init
 ```
+
+```bash
+pnpm dlx prisma migrate dev --name init
+```
+
+```bash
+pnpm dlx prisma studio
+```
